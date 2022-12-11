@@ -1,0 +1,5 @@
+C:\Users\USER\RiderProjects\SOLID\SOLID\obj\Debug\net6.0\SOLID.csproj.AssemblyReference.cache
+C:\Users\USER\RiderProjects\SOLID\SOLID\obj\Debug\net6.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\SOLID\SOLID\obj\Debug\net6.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\SOLID\SOLID\obj\Debug\net6.0\SOLID.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\SOLID\SOLID\obj\Debug\net6.0\SOLID.csproj.CoreCompileInputs.cache

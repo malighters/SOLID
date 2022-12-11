@@ -1,0 +1,15 @@
+C:\Users\USER\RiderProjects\SOLID\SOLID2\bin\Debug\net6.0\SOLID2.exe
+C:\Users\USER\RiderProjects\SOLID\SOLID2\bin\Debug\net6.0\SOLID2.deps.json
+C:\Users\USER\RiderProjects\SOLID\SOLID2\bin\Debug\net6.0\SOLID2.runtimeconfig.json
+C:\Users\USER\RiderProjects\SOLID\SOLID2\bin\Debug\net6.0\SOLID2.dll
+C:\Users\USER\RiderProjects\SOLID\SOLID2\bin\Debug\net6.0\SOLID2.pdb
+C:\Users\USER\RiderProjects\SOLID\SOLID2\obj\Debug\net6.0\SOLID2.csproj.AssemblyReference.cache
+C:\Users\USER\RiderProjects\SOLID\SOLID2\obj\Debug\net6.0\SOLID2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\SOLID\SOLID2\obj\Debug\net6.0\SOLID2.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\SOLID\SOLID2\obj\Debug\net6.0\SOLID2.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\SOLID\SOLID2\obj\Debug\net6.0\SOLID2.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\SOLID\SOLID2\obj\Debug\net6.0\SOLID2.dll
+C:\Users\USER\RiderProjects\SOLID\SOLID2\obj\Debug\net6.0\refint\SOLID2.dll
+C:\Users\USER\RiderProjects\SOLID\SOLID2\obj\Debug\net6.0\SOLID2.pdb
+C:\Users\USER\RiderProjects\SOLID\SOLID2\obj\Debug\net6.0\SOLID2.genruntimeconfig.cache
+C:\Users\USER\RiderProjects\SOLID\SOLID2\obj\Debug\net6.0\ref\SOLID2.dll
